@@ -54,6 +54,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-06-12 06:57:21 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-06-12 03:14:39 +0000"
@@ -210,6 +216,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-06-12 07:27:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "redwood_forest": "2025-06-12 03:14:39 +0000"
@@ -318,6 +330,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2025-06-12 07:18:55 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -378,6 +396,12 @@
     },
     "done": true
   },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2025-06-12 06:28:44 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2025-06-12 03:14:39 +0000"
@@ -421,6 +445,12 @@
       "grassland": "2025-06-12 04:44:59 +0000"
     },
     "done": false
+  },
+  "nameless_trinkets:obtain/experience_magnet": {
+    "criteria": {
+      "experience_magnet": "2025-06-12 07:18:55 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -570,6 +600,18 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/callus": {
+    "criteria": {
+      "callus": "2025-06-12 07:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-12 07:42:50 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -585,6 +627,12 @@
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-12 06:58:55 +0000"
     },
     "done": true
   },

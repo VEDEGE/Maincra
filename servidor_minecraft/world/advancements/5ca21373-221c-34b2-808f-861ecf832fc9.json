@@ -54,6 +54,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-06-12 06:37:21 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-06-12 03:14:53 +0000"
@@ -413,6 +419,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-12 06:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-06-12 03:17:20 +0000"
@@ -555,6 +567,12 @@
   "pfm:recipes/root": {
     "criteria": {
       "has_planks": "2025-06-12 03:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-12 07:01:35 +0000"
     },
     "done": true
   },

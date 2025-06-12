@@ -60,6 +60,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-06-12 06:37:21 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-06-12 03:14:51 +0000"
@@ -186,6 +192,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-06-12 07:03:54 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"
@@ -194,7 +206,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-12 05:54:20 +0000"
+      "bread": "2025-06-12 05:54:20 +0000",
+      "enchanted_golden_apple": "2025-06-12 06:40:34 +0000"
     },
     "done": false
   },
@@ -309,6 +322,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-12 03:21:21 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-12 06:33:13 +0000"
     },
     "done": true
   },
@@ -465,6 +484,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-06-12 07:03:54 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:extreme_temps": {
     "criteria": {
       "requirement": "2025-06-12 03:14:51 +0000"
@@ -592,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-12 07:03:44 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"
@@ -649,6 +680,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-06-12 03:14:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-12 06:38:44 +0000"
     },
     "done": true
   },
