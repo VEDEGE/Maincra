@@ -1690,3 +1690,38 @@
 [12Jun2025 05:43:29.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan has made the advancement [Isn't It Iron Pick]
 [12Jun2025 05:43:49.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [Disme A Dozen]
 [12Jun2025 05:43:50.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [Acquire Hardware]
+[12Jun2025 05:44:31.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 05:44:33.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:44:33.014] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:45:25.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by The Moonflower
+[12Jun2025 05:45:27.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:45:27.467] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:46:12.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 died from dehydration
+[12Jun2025 05:46:13.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:46:13.216] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:46:26.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['RealmHeart21'/1134982, l='ServerLevel[world]', x=-154.44, y=72.00, z=159.76] died: entity.hordes.ZombiePlayer.chat was slain by RealmHeart21
+[12Jun2025 05:46:26.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Sistinyan'/1102078, l='ServerLevel[world]', x=-224.13, y=192.00, z=-104.09] died: entity.hordes.ZombiePlayer.chat was slain by Liluch07
+[12Jun2025 05:46:46.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 05:46:46.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Jun2025 05:46:46.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[12Jun2025 05:46:46.420] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[12Jun2025 05:46:46.420] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[12Jun2025 05:46:46.420] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[12Jun2025 05:46:47.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:46:47.467] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:46:50.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by Zombie
+[12Jun2025 05:46:51.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:46:51.768] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:49:04.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 died from dehydration while fighting Zombie
+[12Jun2025 05:49:06.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:49:06.274] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:49:32.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa burned to death
+[12Jun2025 05:49:32.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has completed the challenge [Desperate Measures]
+[12Jun2025 05:49:35.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:49:35.878] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:49:49.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Sistinyan: Location (-221.0, 199.5824933052063, -97.14334839582443) too far away from hit block BlockPos{x=-221, y=198, z=-98}.
+[12Jun2025 05:51:51.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan has completed the challenge [Desperate Measures]
+[12Jun2025 05:52:15.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan froze to death
+[12Jun2025 05:52:16.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:52:16.734] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:53:59.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 froze to death

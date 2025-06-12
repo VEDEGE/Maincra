@@ -167,6 +167,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-12 05:40:43 +0000",
+      "carrot": "2025-06-12 05:40:36 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
@@ -182,6 +189,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-06-12 05:49:25 +0000"
     },
     "done": true
   },
