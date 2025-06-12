@@ -500,7 +500,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-06-12 03:20:16 +0000"
+      "minecraft:husk": "2025-06-12 04:16:46 +0000",
+      "minecraft:zombie": "2025-06-12 03:20:16 +0000",
+      "minecraft:zombie_villager": "2025-06-12 04:18:07 +0000"
     },
     "done": false
   },
