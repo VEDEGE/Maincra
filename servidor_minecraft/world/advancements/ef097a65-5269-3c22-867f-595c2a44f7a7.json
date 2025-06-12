@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fish_stew": "2025-06-12 04:25:40 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -172,6 +178,12 @@
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-12 04:28:02 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -581,6 +593,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-12 04:25:40 +0000"
     },
     "done": true
   },

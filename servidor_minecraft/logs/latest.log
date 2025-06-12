@@ -1462,3 +1462,28 @@
 [12Jun2025 04:21:41.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [12Jun2025 04:21:41.185] [Server thread/INFO] [tac/]: PENDING
 [12Jun2025 04:21:58.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 has made the advancement [Close Quarters]
+[12Jun2025 04:27:29.958] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 04:29:18.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan froze to death
+[12Jun2025 04:29:20.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:29:20.310] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:29:42.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 froze to death
+[12Jun2025 04:29:43.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:29:43.988] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:30:21.764] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 04:30:24.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by The Moonflower
+[12Jun2025 04:30:26.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:30:26.110] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:30:46.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [Disme A Dozen]
+[12Jun2025 04:30:50.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by The Moonflower
+[12Jun2025 04:30:51.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:30:51.677] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:31:03.213] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-115, y=96, z=-140}
+[12Jun2025 04:31:19.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:31:19.383] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:31:41.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 froze to death whilst fighting Infected Police
+[12Jun2025 04:31:43.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:31:43.784] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:31:59.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by The Moonflower
+[12Jun2025 04:32:00.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:32:00.860] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:32:21.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Sweet Dreams]
