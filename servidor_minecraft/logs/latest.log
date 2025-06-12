@@ -1759,3 +1759,54 @@
 [12Jun2025 06:13:30.399] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5ca21373-221c-34b2-808f-861ecf832fc9
 [12Jun2025 06:13:30.712] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zetinh0 (17)
 [12Jun2025 06:13:30.713] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zetinh0
+[12Jun2025 06:14:56.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [Refined Storage]
+[12Jun2025 06:15:42.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [Immersive Engineering]
+[12Jun2025 06:17:34.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 has made the advancement [Penteconter]
+[12Jun2025 06:24:57.769] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:906) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at net.minecraft.world.entity.animal.Chicken.m_8107_(Chicken.java:105) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2253) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:310) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:652) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:487) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:319) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:299) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:902) ~[server-1.18.2-20220404.173914-srg.jar%23226!/:?]
+	... 5 more
+[12Jun2025 06:24:57.803] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d87cb747-691e-48d8-9072-d3a142459f3e
+[12Jun2025 06:24:57.804] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/Maincra/servidor_minecraft/./crash-reports/crash-2025-06-12_06.24.57-server.txt
+[12Jun2025 06:24:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jun2025 06:24:57.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jun2025 06:24:57.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebullax lost connection: Server closed
+[12Jun2025 06:24:57.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax left the game
+[12Jun2025 06:24:57.818] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[12Jun2025 06:24:57.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sebullax
+[12Jun2025 06:24:57.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sistinyan lost connection: Server closed
+[12Jun2025 06:24:57.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan left the game
+[12Jun2025 06:24:57.822] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 63364086-8c43-34ec-95a1-fee57aee2c7a
+[12Jun2025 06:24:57.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sistinyan
+[12Jun2025 06:24:57.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jun2025 06:24:58.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jun2025 06:25:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[12Jun2025 06:25:00.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[12Jun2025 06:25:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jun2025 06:25:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jun2025 06:25:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jun2025 06:25:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[12Jun2025 06:25:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[12Jun2025 06:25:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jun2025 06:25:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jun2025 06:25:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Jun2025 06:25:00.267] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[12Jun2025 06:25:00.275] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[12Jun2025 06:25:00.275] [Server thread/INFO] [configured/]: Unloading server configs...
+[12Jun2025 06:25:00.276] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

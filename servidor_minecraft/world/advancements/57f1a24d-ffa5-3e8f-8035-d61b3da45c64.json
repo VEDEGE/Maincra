@@ -384,6 +384,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-06-12 06:14:56 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"
@@ -418,7 +424,8 @@
     "criteria": {
       "shrubland": "2025-06-12 03:45:03 +0000",
       "redwood_forest": "2025-06-12 03:14:51 +0000",
-      "lavender_field": "2025-06-12 06:07:44 +0000"
+      "lavender_field": "2025-06-12 06:07:44 +0000",
+      "grassland": "2025-06-12 06:09:31 +0000"
     },
     "done": false
   },
@@ -491,6 +498,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-06-12 06:15:42 +0000"
     },
     "done": true
   },
