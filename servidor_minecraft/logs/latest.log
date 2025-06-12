@@ -1638,3 +1638,14 @@
 [12Jun2025 05:21:42.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement [Close Quarters]
 [12Jun2025 05:21:51.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Connecting]
 [12Jun2025 05:23:03.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Close Quarters]
+[12Jun2025 05:23:54.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Diamonds!]
+[12Jun2025 05:27:04.707] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[12Jun2025 05:30:34.513] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e6a4534
+[12Jun2025 05:30:34.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RealmHeart21[/127.226.25.164:44537] logged in with entity id 1024378 at (-152.5, 72.0, 153.5)
+[12Jun2025 05:30:34.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 joined the game
+[12Jun2025 05:30:34.527] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:30:34.556] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ef097a65-5269-3c22-867f-595c2a44f7a7
+[12Jun2025 05:30:35.118] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RealmHeart21 (17)
+[12Jun2025 05:30:35.119] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RealmHeart21
+[12Jun2025 05:32:17.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:32:17.633] [Server thread/INFO] [tac/]: PENDING
