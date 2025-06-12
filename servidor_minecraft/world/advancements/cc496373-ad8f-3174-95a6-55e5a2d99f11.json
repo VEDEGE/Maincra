@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-06-12 05:34:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
@@ -287,6 +293,18 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-12 05:38:14 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2025-06-12 05:34:36 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
@@ -399,6 +417,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-12 03:18:37 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/experience_magnet": {
+    "criteria": {
+      "experience_magnet": "2025-06-12 05:34:36 +0000"
     },
     "done": true
   },

@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-12 05:33:52 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"

@@ -132,15 +132,15 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-06-12 03:20:38 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-12 03:20:38 +0000"
     },
     "done": true
   },
@@ -237,6 +237,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-12 05:35:54 +0000"
     },
     "done": true
   },
@@ -348,12 +354,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-06-12 03:20:16 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-12 03:14:39 +0000"
@@ -363,6 +363,12 @@
   "ag_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-12 03:20:16 +0000"
     },
     "done": true
   },
@@ -412,7 +418,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-06-12 03:17:25 +0000"
+      "minecraft:river": "2025-06-12 03:17:25 +0000",
+      "minecraft:forest": "2025-06-12 05:32:38 +0000"
     },
     "done": false
   },
@@ -479,6 +486,12 @@
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-06-12 05:36:37 +0000"
     },
     "done": true
   },
@@ -613,6 +626,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-06-12 04:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-12 05:36:57 +0000"
     },
     "done": true
   },
