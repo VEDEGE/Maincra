@@ -22084,3 +22084,176 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 04:42:10.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [12Jun2025 04:42:22.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Acquire Hardware]
 [12Jun2025 04:42:31.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has reached the goal [Modern Materials]
+[12Jun2025 04:43:22.663] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[12Jun2025 04:43:22.663] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Jun2025 04:43:25.337] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Jun2025 04:43:25.337] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Jun2025 04:43:29.396] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[12Jun2025 04:44:06.645] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:lighthouse
+[12Jun2025 04:44:28.380] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[12Jun2025 04:44:28.381] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[12Jun2025 04:44:28.381] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[12Jun2025 04:44:28.383] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[12Jun2025 04:44:28.383] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[12Jun2025 04:44:28.384] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[12Jun2025 04:44:28.385] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[12Jun2025 04:44:28.395] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[12Jun2025 04:44:28.396] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[12Jun2025 04:44:28.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:44:28.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:44:34.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:44:35.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:44:35.221] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:45:32.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:45:33.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:45:33.562] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:45:44.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zombie
+[12Jun2025 04:45:45.593] [IO-Worker-190/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[12Jun2025 04:45:46.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:45:46.364] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:46:38.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Sweet Dreams]
+[12Jun2025 04:46:45.487] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Jun2025 04:47:44.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:47:45.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:47:45.665] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:47:53.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Close Quarters]
+[12Jun2025 04:48:20.788] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[12Jun2025 04:49:03.914] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-110, y=60, z=-126}
+[12Jun2025 04:49:20.533] [IO-Worker-194/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[12Jun2025 04:49:28.380] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[12Jun2025 04:49:28.380] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[12Jun2025 04:49:28.391] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[12Jun2025 04:49:28.392] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[12Jun2025 04:49:28.393] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[12Jun2025 04:49:28.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:49:28.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:50:05.487] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Jun2025 04:50:43.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [Getting an Upgrade]
+[12Jun2025 04:51:34.659] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[12Jun2025 04:53:00.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:53:02.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:53:02.168] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:53:25.387] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Jun2025 04:53:25.387] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Jun2025 04:53:53.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zombie
+[12Jun2025 04:53:54.394] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[12Jun2025 04:53:54.434] [IO-Worker-200/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[12Jun2025 04:53:54.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:53:54.562] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:53:55.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Sistinyan'/710245, l='ServerLevel[world]', x=-217.59, y=168.42, z=-105.11] died: entity.hordes.ZombiePlayer.chat was slain by Sistinyan
+[12Jun2025 04:54:13.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:54:15.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:54:15.263] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:54:28.377] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[12Jun2025 04:54:28.379] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[12Jun2025 04:54:28.389] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[12Jun2025 04:54:28.390] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-206
+[12Jun2025 04:54:28.390] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-207
+[12Jun2025 04:54:28.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:54:28.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:54:43.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [A Glorious Feast]
+[12Jun2025 04:54:54.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:54:55.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:54:55.984] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:55:41.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa fell from a high place
+[12Jun2025 04:55:42.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:55:42.777] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:56:10.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:56:11.243] [IO-Worker-198/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[12Jun2025 04:56:11.261] [IO-Worker-198/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[12Jun2025 04:56:11.261] [IO-Worker-208/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[12Jun2025 04:56:11.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:56:11.866] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:56:35.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD died of heatstroke
+[12Jun2025 04:56:39.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:56:39.119] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:56:39.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:56:41.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:56:41.081] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:56:45.537] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Jun2025 04:57:10.531] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.708] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.758] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.761] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.809] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.818] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.860] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.907] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.908] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:10.977] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:11.008] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:11.009] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:11.081] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:11.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:57:19.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['RealmHeart21'/775623, l='ServerLevel[world]', x=-200.20, y=71.00, z=115.89] died: entity.hordes.ZombiePlayer.chat was slain by RealmHeart21
+[12Jun2025 04:57:26.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has completed the challenge [I'm not sugar coating it]
+[12Jun2025 04:57:39.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['RealmHeart21'/773010, l='ServerLevel[world]', x=-199.40, y=71.00, z=115.30] died: entity.hordes.ZombiePlayer.chat was slain by RealmHeart21
+[12Jun2025 04:58:24.562] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:59:14.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 was slain by Zombie
+[12Jun2025 04:59:16.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:59:16.666] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:59:21.132] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 04:59:21.634] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 04:59:21.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 04:59:21.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 04:59:21.736] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 04:59:21.784] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 04:59:25.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by Husk
+[12Jun2025 04:59:27.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:59:27.711] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:59:28.374] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[12Jun2025 04:59:28.375] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[12Jun2025 04:59:28.375] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-213
+[12Jun2025 04:59:28.377] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[12Jun2025 04:59:28.377] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[12Jun2025 04:59:28.377] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[12Jun2025 04:59:28.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
+[12Jun2025 04:59:28.387] [IO-Worker-212/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[12Jun2025 04:59:28.388] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-217
+[12Jun2025 04:59:28.389] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-218
+[12Jun2025 04:59:28.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:59:28.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:59:29.911] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:59:30.455] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:59:30.769] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:59:32.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by The Moonflower
+[12Jun2025 04:59:34.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:59:34.060] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:00:05.537] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Jun2025 05:00:28.007] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 05:00:28.608] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 05:00:28.670] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 05:00:50.971] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:51.473] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:51.521] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:51.679] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:51.714] [IO-Worker-218/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-219
+[12Jun2025 05:00:52.233] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.233] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.280] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.333] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.369] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.380] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.422] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.428] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.474] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.564] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:52.564] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:00:58.545] [IO-Worker-219/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-220
+[12Jun2025 05:01:30.551] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.414] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.430] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.437] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:31.473] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 05:01:37.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by The Moonflower
+[12Jun2025 05:01:40.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:01:40.061] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:01:49.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD died of heatstroke
+[12Jun2025 05:03:13.099] [IO-Worker-218/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-221
+[12Jun2025 05:03:25.437] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Jun2025 05:03:25.437] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!

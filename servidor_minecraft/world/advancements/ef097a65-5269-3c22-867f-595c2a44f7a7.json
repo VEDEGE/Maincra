@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2025-06-12 04:42:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -266,6 +272,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2025-06-12 04:45:21 +0000"
     },
     "done": true
   },
@@ -392,7 +404,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-06-12 03:17:33 +0000",
-      "redwood_forest": "2025-06-12 03:14:39 +0000"
+      "redwood_forest": "2025-06-12 03:14:39 +0000",
+      "grassland": "2025-06-12 04:44:59 +0000"
     },
     "done": false
   },
@@ -401,6 +414,12 @@
       "minecraft:river": "2025-06-12 03:17:25 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_feather": "2025-06-12 04:45:21 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -590,6 +609,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-12 04:47:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -614,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-12 04:42:22 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -624,6 +655,12 @@
     "criteria": {
       "has_blazepowder": "2025-06-12 03:14:39 +0000",
       "has_bolt": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2025-06-12 04:42:22 +0000"
     },
     "done": true
   },

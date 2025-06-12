@@ -457,6 +457,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-06-12 04:40:26 +0000"
+    },
+    "done": true
+  },
   "ag_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement": "2025-06-12 03:34:41 +0000"
@@ -623,6 +629,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-12 04:50:43 +0000"
     },
     "done": true
   },

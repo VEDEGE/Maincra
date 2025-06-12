@@ -1522,3 +1522,62 @@
 [12Jun2025 04:42:10.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [12Jun2025 04:42:22.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Acquire Hardware]
 [12Jun2025 04:42:31.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has reached the goal [Modern Materials]
+[12Jun2025 04:44:34.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:44:35.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:44:35.221] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:45:32.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:45:33.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:45:33.562] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:45:44.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zombie
+[12Jun2025 04:45:46.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:45:46.364] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:46:38.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Sweet Dreams]
+[12Jun2025 04:47:44.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:47:45.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:47:45.665] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:47:53.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Close Quarters]
+[12Jun2025 04:49:03.914] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-110, y=60, z=-126}
+[12Jun2025 04:50:43.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [Getting an Upgrade]
+[12Jun2025 04:51:34.659] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[12Jun2025 04:53:00.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:53:02.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:53:02.168] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:53:53.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zombie
+[12Jun2025 04:53:54.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:53:54.562] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:53:55.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Sistinyan'/710245, l='ServerLevel[world]', x=-217.59, y=168.42, z=-105.11] died: entity.hordes.ZombiePlayer.chat was slain by Sistinyan
+[12Jun2025 04:54:13.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:54:15.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:54:15.263] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:54:43.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [A Glorious Feast]
+[12Jun2025 04:54:54.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:54:55.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:54:55.984] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:55:41.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa fell from a high place
+[12Jun2025 04:55:42.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:55:42.777] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:56:10.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:56:11.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:56:11.866] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:56:35.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD died of heatstroke
+[12Jun2025 04:56:39.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:56:39.119] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:56:39.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by entity.hordes.ZombiePlayer.chat
+[12Jun2025 04:56:41.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:56:41.081] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:57:19.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['RealmHeart21'/775623, l='ServerLevel[world]', x=-200.20, y=71.00, z=115.89] died: entity.hordes.ZombiePlayer.chat was slain by RealmHeart21
+[12Jun2025 04:57:26.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has completed the challenge [I'm not sugar coating it]
+[12Jun2025 04:57:39.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['RealmHeart21'/773010, l='ServerLevel[world]', x=-199.40, y=71.00, z=115.30] died: entity.hordes.ZombiePlayer.chat was slain by RealmHeart21
+[12Jun2025 04:59:14.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 was slain by Zombie
+[12Jun2025 04:59:16.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:59:16.666] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:59:25.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by Husk
+[12Jun2025 04:59:27.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:59:27.711] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:59:32.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by The Moonflower
+[12Jun2025 04:59:34.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:59:34.060] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:01:37.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by The Moonflower
+[12Jun2025 05:01:40.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:01:40.061] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:01:49.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD died of heatstroke

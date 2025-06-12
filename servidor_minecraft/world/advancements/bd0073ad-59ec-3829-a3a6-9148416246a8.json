@@ -426,6 +426,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "shepherds_pie": "2025-06-12 04:54:43 +0000"
+    },
+    "done": true
+  },
   "ag_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement": "2025-06-12 03:54:41 +0000"
@@ -500,7 +506,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:husk": "2025-06-12 03:41:35 +0000"
+      "minecraft:husk": "2025-06-12 03:41:35 +0000",
+      "minecraft:zombie": "2025-06-12 04:52:57 +0000"
     },
     "done": false
   },
