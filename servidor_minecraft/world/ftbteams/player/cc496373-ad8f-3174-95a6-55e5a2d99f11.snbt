@@ -1,0 +1,17 @@
+{
+	id: "cc496373-ad8f-3174-95a6-55e5a2d99f11"
+	type: "player"
+	player_name: "Coisapreciosa"
+	ranks: {
+		cc496373-ad8f-3174-95a6-55e5a2d99f11: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Coisapreciosa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

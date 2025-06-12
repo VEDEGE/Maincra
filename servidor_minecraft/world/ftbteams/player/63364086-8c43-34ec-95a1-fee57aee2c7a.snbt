@@ -1,0 +1,17 @@
+{
+	id: "63364086-8c43-34ec-95a1-fee57aee2c7a"
+	type: "player"
+	player_name: "Sistinyan"
+	ranks: {
+		63364086-8c43-34ec-95a1-fee57aee2c7a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sistinyan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#596DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

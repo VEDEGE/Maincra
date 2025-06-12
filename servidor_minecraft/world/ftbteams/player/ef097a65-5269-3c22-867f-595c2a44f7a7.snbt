@@ -1,0 +1,17 @@
+{
+	id: "ef097a65-5269-3c22-867f-595c2a44f7a7"
+	type: "player"
+	player_name: "RealmHeart21"
+	ranks: {
+		ef097a65-5269-3c22-867f-595c2a44f7a7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RealmHeart21"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

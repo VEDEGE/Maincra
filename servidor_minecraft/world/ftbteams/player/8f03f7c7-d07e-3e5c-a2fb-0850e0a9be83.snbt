@@ -1,0 +1,17 @@
+{
+	id: "8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83"
+	type: "player"
+	player_name: "Liluch07"
+	ranks: {
+		8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Liluch07"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
