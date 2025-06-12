@@ -29,6 +29,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-06-12 04:35:29 +0000",
+      "wheat": "2025-06-12 04:35:11 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"
@@ -462,6 +469,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-12 04:30:46 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"
@@ -471,6 +484,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-06-12 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-12 04:35:11 +0000"
     },
     "done": true
   },

@@ -1487,3 +1487,38 @@
 [12Jun2025 04:32:00.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [12Jun2025 04:32:00.860] [Server thread/INFO] [tac/]: PENDING
 [12Jun2025 04:32:21.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Sweet Dreams]
+[12Jun2025 04:33:52.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa fell from a high place
+[12Jun2025 04:33:54.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:33:54.614] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:34:24.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement [Acquire Hardware]
+[12Jun2025 04:34:28.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by The Moonflower
+[12Jun2025 04:34:30.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:34:30.220] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:34:38.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan froze to death
+[12Jun2025 04:34:39.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:34:39.612] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:35:03.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by The Moonflower
+[12Jun2025 04:35:05.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:35:05.220] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:35:11.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [A Seedy Place]
+[12Jun2025 04:35:28.918] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[12Jun2025 04:36:23.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['RealmHeart21'/617376, l='ServerLevel[world]', x=-114.85, y=74.00, z=-138.54] died: entity.hordes.ZombiePlayer.chat was slain by Liluch07
+[12Jun2025 04:37:04.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zombie
+[12Jun2025 04:37:06.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:37:06.114] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:39:37.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sistinyan moved wrongly!
+[12Jun2025 04:39:40.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement [Stone Age]
+[12Jun2025 04:40:11.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement [Getting an Upgrade]
+[12Jun2025 04:40:26.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [HAMMAH!]
+[12Jun2025 04:40:27.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:40:27.613] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Jun2025 04:40:27.614] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 44 is dual wielding: false
+[12Jun2025 04:40:27.614] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[12Jun2025 04:40:27.614] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[12Jun2025 04:40:27.614] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[12Jun2025 04:40:28.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:40:28.663] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:42:05.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement [Isn't It Iron Pick]
+[12Jun2025 04:42:10.359] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[12Jun2025 04:42:22.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Acquire Hardware]
+[12Jun2025 04:42:31.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has reached the goal [Modern Materials]
