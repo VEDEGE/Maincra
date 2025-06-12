@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-12 03:19:46 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-12 03:15:23 +0000"
@@ -192,6 +198,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-12 03:26:09 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
@@ -234,6 +246,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-12 03:19:46 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-06-12 03:15:23 +0000"
@@ -243,6 +261,12 @@
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-12 03:19:52 +0000"
     },
     "done": true
   },
@@ -269,6 +293,12 @@
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-06-12 03:19:52 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -305,6 +335,12 @@
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-12 03:19:46 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_light_gray": {
     "criteria": {

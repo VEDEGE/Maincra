@@ -145,15 +145,28 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-06-12 03:22:18 +0000",
       "redwood_forest": "2025-06-12 03:14:41 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-12 03:20:01 +0000"
+    },
+    "done": true
   },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-06-12 03:14:41 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-06-12 03:22:09 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
@@ -164,6 +177,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-12 03:25:28 +0000"
     },
     "done": true
   },
@@ -182,6 +201,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-12 03:23:14 +0000"
     },
     "done": true
   },
@@ -239,6 +264,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-12 03:24:32 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:41 +0000"
@@ -262,6 +293,12 @@
       "has_the_recipe": "2025-06-12 03:14:41 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-06-12 03:24:32 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -467,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-12 03:22:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:41 +0000"
@@ -525,6 +568,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2025-06-12 03:27:43 +0000"
     },
     "done": true
   },

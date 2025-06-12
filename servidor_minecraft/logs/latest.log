@@ -1259,3 +1259,52 @@
 [12Jun2025 03:20:38.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement ['X' Marks the Spot]
 [12Jun2025 03:22:07.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [Getting an Upgrade]
 [12Jun2025 03:22:17.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement ['X' Marks the Spot]
+[12Jun2025 03:22:39.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax was slain by The Moonflower
+[12Jun2025 03:22:45.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:22:45.177] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:22:46.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Monster Hunter]
+[12Jun2025 03:24:11.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan has made the advancement [Monster Hunter]
+[12Jun2025 03:24:32.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement ['X' Marks the Spot]
+[12Jun2025 03:24:38.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has reached the goal [Modern Materials]
+[12Jun2025 03:25:23.205] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:25:28.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [Sweet Dreams]
+[12Jun2025 03:25:36.820] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:25:37.681] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:25:40.702] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:25:41.209] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:25:45.953] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:26:34.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Acquire Hardware]
+[12Jun2025 03:26:36.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 has made the advancement [Disme A Dozen]
+[12Jun2025 03:26:48.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan has made the advancement [Disme A Dozen]
+[12Jun2025 03:27:43.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [Huddle Close]
+[12Jun2025 03:28:15.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebullax lost connection: Disconnected
+[12Jun2025 03:28:15.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax left the game
+[12Jun2025 03:28:15.452] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[12Jun2025 03:28:15.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sebullax
+[12Jun2025 03:28:30.581] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:28:46.353] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:29:08.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 has made the advancement [Diamonds!]
+[12Jun2025 03:29:09.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD froze to death
+[12Jun2025 03:29:13.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:29:13.574] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:29:19.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 has made the advancement [Sweet Dreams]
+[12Jun2025 03:29:32.750] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[12Jun2025 03:30:16.054] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60345de4
+[12Jun2025 03:30:16.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebullax[/127.254.15.59:46413] logged in with entity id 177675 at (1.7586039024827178, 95.0, -31.35317661022678)
+[12Jun2025 03:30:16.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax joined the game
+[12Jun2025 03:30:16.071] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:30:16.128] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[12Jun2025 03:30:16.858] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sebullax (17)
+[12Jun2025 03:30:16.858] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sebullax
+[12Jun2025 03:30:48.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan has made the advancement [Huddle Close]
+[12Jun2025 03:30:54.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by The Moonflower
+[12Jun2025 03:30:56.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement [Huddle Close]
+[12Jun2025 03:30:57.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:30:57.356] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:31:03.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebullax lost connection: Disconnected
+[12Jun2025 03:31:03.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax left the game
+[12Jun2025 03:31:03.649] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[12Jun2025 03:31:03.650] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sebullax
+[12Jun2025 03:31:10.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 froze to death
+[12Jun2025 03:31:12.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:31:12.234] [Server thread/INFO] [tac/]: PENDING
