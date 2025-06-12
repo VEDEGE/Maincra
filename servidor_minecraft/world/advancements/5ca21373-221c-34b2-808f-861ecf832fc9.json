@@ -23,6 +23,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "beef_stew": "2025-06-12 04:01:57 +0000",
+      "fried_rice": "2025-06-12 04:02:22 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
@@ -175,6 +182,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-12 04:01:47 +0000",
+      "baked_potato": "2025-06-12 04:07:50 +0000",
       "bread": "2025-06-12 03:40:33 +0000",
       "cooked_chicken": "2025-06-12 03:38:23 +0000"
     },
@@ -225,6 +234,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-12 04:03:09 +0000"
     },
     "done": true
   },
@@ -614,9 +629,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-12 04:01:57 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-12 04:04:04 +0000"
     },
     "done": true
   },
@@ -630,6 +657,12 @@
     "criteria": {
       "has_blazepowder": "2025-06-12 03:14:53 +0000",
       "has_bolt": "2025-06-12 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2025-06-12 04:04:04 +0000"
     },
     "done": true
   },
