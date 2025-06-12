@@ -21507,3 +21507,171 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 03:52:22.317] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
 [12Jun2025 03:52:22.319] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
 [12Jun2025 03:52:22.358] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:05.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by Zombie
+[12Jun2025 03:53:06.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:53:06.516] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:53:09.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 was slain by Zombie
+[12Jun2025 03:53:10.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:53:10.936] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:53:11.460] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:11.957] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.010] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.106] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.106] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.118] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.160] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.213] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.217] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.234] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.275] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.308] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.308] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.407] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.458] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.458] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:12.458] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:53:23.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 was slain by Zombie
+[12Jun2025 03:53:25.087] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Jun2025 03:53:25.087] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Jun2025 03:53:25.105] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.610] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.710] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.711] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:53:25.764] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:53:25.847] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.847] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.847] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.911] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.911] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:25.964] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:26.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:26.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:26.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:26.108] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:53:40.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by zetinh0
+[12Jun2025 03:53:41.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:53:41.826] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:54:00.411] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:00.909] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:00.966] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.011] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.062] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.069] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.111] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.116] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.168] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.218] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:01.262] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:04.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by Zombie
+[12Jun2025 03:54:06.209] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:54:06.710] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:54:06.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.755] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.822] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.822] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.868] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.868] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.915] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.964] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:06.964] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:54:16.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.283] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.310] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.325] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.558] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.612] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:17.612] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:54:18.824] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MUHAMMAD: {disabled=false, disconnected=true, uuid=bd0073ad-59ec-3829-a3a6-9148416246a8, name=MUHAMMAD, group=null}
+[12Jun2025 03:54:19.217] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MUHAMMAD: {disabled=true, disconnected=true, uuid=bd0073ad-59ec-3829-a3a6-9148416246a8, name=MUHAMMAD, group=null}
+[12Jun2025 03:54:28.378] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[12Jun2025 03:54:28.379] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[12Jun2025 03:54:28.379] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[12Jun2025 03:54:28.380] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[12Jun2025 03:54:28.382] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[12Jun2025 03:54:28.383] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[12Jun2025 03:54:28.397] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[12Jun2025 03:54:28.398] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[12Jun2025 03:54:28.399] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[12Jun2025 03:54:28.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 03:54:28.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 03:54:41.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD has made the advancement [First Day]
+[12Jun2025 03:55:04.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by Zombie
+[12Jun2025 03:55:06.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 03:55:06.961] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 03:56:28.263] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:28.807] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:28.807] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:28.857] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:28.857] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:28.906] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:28.967] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.006] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.007] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.059] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.059] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.108] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.163] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.262] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.263] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.310] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.358] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.358] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.406] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.460] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.507] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=true, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:29.507] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Sistinyan: {disabled=false, disconnected=true, uuid=63364086-8c43-34ec-95a1-fee57aee2c7a, name=Sistinyan, group=null}
+[12Jun2025 03:56:45.237] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Jun2025 03:56:55.219] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[12Jun2025 03:57:05.072] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.612] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.669] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.734] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.779] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.830] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.860] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.884] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.909] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:05.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 03:57:31.695] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[12Jun2025 03:59:01.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [Crops of the Wild]
+[12Jun2025 03:59:03.983] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[12Jun2025 03:59:03.983] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[12Jun2025 03:59:28.374] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[12Jun2025 03:59:28.374] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[12Jun2025 03:59:28.375] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[12Jun2025 03:59:28.376] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[12Jun2025 03:59:28.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[12Jun2025 03:59:28.387] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[12Jun2025 03:59:28.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[12Jun2025 03:59:28.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 03:59:28.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:00:05.237] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Jun2025 04:00:23.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 was slain by The Wheezer
+[12Jun2025 04:00:26.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:00:26.030] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:01:20.227] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[12Jun2025 04:01:59.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan was slain by Zombie
+[12Jun2025 04:02:01.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 04:02:01.418] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 04:02:12.364] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:02:12.863] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:02:12.913] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:02:12.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:02:12.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=true, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:02:13.012] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Coisapreciosa: {disabled=false, disconnected=true, uuid=cc496373-ad8f-3174-95a6-55e5a2d99f11, name=Coisapreciosa, group=null}
+[12Jun2025 04:02:36.665] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of zetinh0: {disabled=true, disconnected=true, uuid=5ca21373-221c-34b2-808f-861ecf832fc9, name=zetinh0, group=null}
+[12Jun2025 04:02:51.367] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
