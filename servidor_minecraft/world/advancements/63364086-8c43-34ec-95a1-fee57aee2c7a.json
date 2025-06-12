@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-06-12 05:49:42 +0000"
+    },
+    "done": true
+  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-06-12 03:16:09 +0000"
@@ -350,6 +356,18 @@
   "ag_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2025-06-12 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-06-12 05:50:48 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2025-06-12 05:51:51 +0000"
     },
     "done": true
   },

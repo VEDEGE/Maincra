@@ -1725,3 +1725,20 @@
 [12Jun2025 05:52:16.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [12Jun2025 05:52:16.734] [Server thread/INFO] [tac/]: PENDING
 [12Jun2025 05:53:59.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 froze to death
+[12Jun2025 05:54:02.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:54:02.119] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:56:19.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Disconnected
+[12Jun2025 05:56:19.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[12Jun2025 05:56:19.111] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[12Jun2025 05:56:19.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[12Jun2025 05:57:39.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coisapreciosa lost connection: Disconnected
+[12Jun2025 05:57:39.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa left the game
+[12Jun2025 05:57:39.765] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cc496373-ad8f-3174-95a6-55e5a2d99f11
+[12Jun2025 05:57:39.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coisapreciosa
+[12Jun2025 05:59:03.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD died from dehydration
+[12Jun2025 05:59:12.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:59:12.725] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:59:15.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUHAMMAD lost connection: Disconnected
+[12Jun2025 05:59:15.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD left the game
+[12Jun2025 05:59:15.259] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd0073ad-59ec-3829-a3a6-9148416246a8
+[12Jun2025 05:59:15.259] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MUHAMMAD

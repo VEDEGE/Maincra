@@ -192,6 +192,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-12 05:54:20 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:51 +0000"

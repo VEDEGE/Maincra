@@ -23233,3 +23233,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Jun2025 05:53:25.687] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [12Jun2025 05:53:25.687] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [12Jun2025 05:53:59.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 froze to death
+[12Jun2025 05:54:02.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:54:02.119] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:54:19.996] [IO-Worker-314/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-322
+[12Jun2025 05:54:28.385] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-323
+[12Jun2025 05:54:28.385] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-324
+[12Jun2025 05:54:28.386] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-325
+[12Jun2025 05:54:28.399] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-326
+[12Jun2025 05:54:28.399] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-327
+[12Jun2025 05:54:28.400] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-328
+[12Jun2025 05:54:28.400] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-329
+[12Jun2025 05:54:28.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 05:54:28.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 05:56:19.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Disconnected
+[12Jun2025 05:56:19.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[12Jun2025 05:56:19.111] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[12Jun2025 05:56:19.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[12Jun2025 05:56:19.112] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Liluch07
+[12Jun2025 05:56:28.998] [IO-Worker-322/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-330
+[12Jun2025 05:56:45.837] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Jun2025 05:57:23.044] [IO-Worker-329/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-331
+[12Jun2025 05:57:39.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coisapreciosa lost connection: Disconnected
+[12Jun2025 05:57:39.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa left the game
+[12Jun2025 05:57:39.765] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cc496373-ad8f-3174-95a6-55e5a2d99f11
+[12Jun2025 05:57:39.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coisapreciosa
+[12Jun2025 05:57:39.766] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Coisapreciosa
+[12Jun2025 05:59:03.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD died from dehydration
+[12Jun2025 05:59:04.001] [IO-Worker-331/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-332
+[12Jun2025 05:59:04.060] [IO-Worker-329/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-333
+[12Jun2025 05:59:04.080] [IO-Worker-333/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-334
+[12Jun2025 05:59:12.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:59:12.725] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:59:15.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUHAMMAD lost connection: Disconnected
+[12Jun2025 05:59:15.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD left the game
+[12Jun2025 05:59:15.259] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd0073ad-59ec-3829-a3a6-9148416246a8
+[12Jun2025 05:59:15.259] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MUHAMMAD
+[12Jun2025 05:59:15.259] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MUHAMMAD
+[12Jun2025 05:59:28.372] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-335
+[12Jun2025 05:59:28.372] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-336
+[12Jun2025 05:59:28.373] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-337
+[12Jun2025 05:59:28.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-338
+[12Jun2025 05:59:28.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-339
+[12Jun2025 05:59:28.387] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-340
+[12Jun2025 05:59:28.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 05:59:28.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 06:00:05.837] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Jun2025 06:01:16.627] [IO-Worker-340/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-341
+[12Jun2025 06:01:16.634] [IO-Worker-340/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-342
+[12Jun2025 06:01:16.634] [IO-Worker-339/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-343
+[12Jun2025 06:02:20.629] [IO-Worker-342/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-344
+[12Jun2025 06:03:25.737] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Jun2025 06:03:25.737] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
