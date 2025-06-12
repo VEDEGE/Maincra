@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-12 03:33:44 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
@@ -166,6 +172,12 @@
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-06-12 03:38:23 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -426,6 +438,12 @@
     },
     "done": true
   },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-06-12 03:34:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
@@ -503,6 +521,12 @@
       "minecraft:zombie": "2025-06-12 03:19:44 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-06-12 03:30:51 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_green_from_white": {
     "criteria": {

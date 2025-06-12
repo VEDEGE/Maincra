@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-06-12 03:34:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
