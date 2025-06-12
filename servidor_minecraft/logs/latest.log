@@ -1628,3 +1628,13 @@
 [12Jun2025 05:12:37.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by Zombie
 [12Jun2025 05:12:42.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [12Jun2025 05:12:42.406] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:14:15.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa was slain by Husk
+[12Jun2025 05:14:19.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 05:14:19.809] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 05:14:29.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Coisapreciosa'/810542, l='ServerLevel[world]', x=-195.05, y=74.00, z=-99.68] died: entity.hordes.ZombiePlayer.chat was slain by Liluch07
+[12Jun2025 05:14:39.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Coisapreciosa'/903576, l='ServerLevel[world]', x=-203.52, y=74.00, z=-96.92] died: entity.hordes.ZombiePlayer.chat was slain by Liluch07
+[12Jun2025 05:14:40.157] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[12Jun2025 05:14:40.159] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-06-12_02-21-30.zip"
+[12Jun2025 05:21:42.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement [Close Quarters]
+[12Jun2025 05:21:51.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Connecting]
+[12Jun2025 05:23:03.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Close Quarters]
