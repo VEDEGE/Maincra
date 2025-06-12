@@ -417,7 +417,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-06-12 03:45:03 +0000",
-      "redwood_forest": "2025-06-12 03:14:51 +0000"
+      "redwood_forest": "2025-06-12 03:14:51 +0000",
+      "lavender_field": "2025-06-12 06:07:44 +0000"
     },
     "done": false
   },

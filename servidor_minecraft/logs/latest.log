@@ -1742,3 +1742,20 @@
 [12Jun2025 05:59:15.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD left the game
 [12Jun2025 05:59:15.259] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd0073ad-59ec-3829-a3a6-9148416246a8
 [12Jun2025 05:59:15.259] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MUHAMMAD
+[12Jun2025 06:04:12.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by Zombie
+[12Jun2025 06:04:14.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 06:04:14.011] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 06:07:00.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetinh0 lost connection: Disconnected
+[12Jun2025 06:07:00.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 left the game
+[12Jun2025 06:07:00.010] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5ca21373-221c-34b2-808f-861ecf832fc9
+[12Jun2025 06:07:00.010] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zetinh0
+[12Jun2025 06:12:20.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Sistinyan: Location (-221.0, 199.75713634490967, -96.59220844507217) too far away from hit block BlockPos{x=-221, y=198, z=-97}.
+[12Jun2025 06:12:21.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Sistinyan: Location (-221.0, 199.78532433509827, -96.41792637109756) too far away from hit block BlockPos{x=-221, y=198, z=-97}.
+[12Jun2025 06:12:21.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Sistinyan: Location (-221.0, 199.78964591026306, -96.41792631149292) too far away from hit block BlockPos{x=-221, y=198, z=-97}.
+[12Jun2025 06:13:30.355] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2329f955
+[12Jun2025 06:13:30.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zetinh0[/127.252.115.205:52399] logged in with entity id 1319739 at (-267.5, 96.01000061035157, -293.5)
+[12Jun2025 06:13:30.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 joined the game
+[12Jun2025 06:13:30.368] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 06:13:30.399] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5ca21373-221c-34b2-808f-861ecf832fc9
+[12Jun2025 06:13:30.712] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zetinh0 (17)
+[12Jun2025 06:13:30.713] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zetinh0
