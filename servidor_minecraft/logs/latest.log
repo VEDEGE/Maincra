@@ -1200,3 +1200,90 @@
 [12Jun2025 02:52:12.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [12Jun2025 02:52:12.581] [Server thread/INFO] [tac/]: PENDING
 [12Jun2025 02:52:24.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD was slain by Zoombieshroom
+[12Jun2025 02:52:26.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zoombieshroom
+[12Jun2025 02:52:28.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:52:28.136] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:52:30.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:52:30.131] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:53:06.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by Zombie
+[12Jun2025 02:53:08.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:53:08.669] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:53:12.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax was slain by Husk
+[12Jun2025 02:53:14.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:53:14.085] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:53:17.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 has made the advancement ['X' Marks the Spot]
+[12Jun2025 02:53:43.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD was slain by Zombie Goat
+[12Jun2025 02:53:46.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:53:46.131] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:53:47.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zombie Goat
+[12Jun2025 02:53:49.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:53:49.542] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:53:56.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan has made the advancement ['X' Marks the Spot]
+[12Jun2025 02:54:37.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD was slain by Zoombieshroom
+[12Jun2025 02:54:38.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 was slain by Zoombieshroom
+[12Jun2025 02:54:38.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 has made the advancement ['X' Marks the Spot]
+[12Jun2025 02:54:43.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:54:43.179] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:54:44.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:54:44.480] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:54:44.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coisapreciosa lost connection: Disconnected
+[12Jun2025 02:54:44.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa left the game
+[12Jun2025 02:54:44.627] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cc496373-ad8f-3174-95a6-55e5a2d99f11
+[12Jun2025 02:54:44.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coisapreciosa
+[12Jun2025 02:54:53.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax has made the advancement [Stone Age]
+[12Jun2025 02:55:10.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax was slain by Runner
+[12Jun2025 02:55:10.626] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Jun2025 02:55:10.627] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[12Jun2025 02:55:10.627] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[12Jun2025 02:55:10.627] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[12Jun2025 02:55:10.627] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[12Jun2025 02:55:12.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:55:12.040] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:55:20.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by Zombie
+[12Jun2025 02:55:23.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 was slain by The Wheezer
+[12Jun2025 02:55:24.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:55:24.418] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:55:29.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Disconnected
+[12Jun2025 02:55:29.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[12Jun2025 02:55:29.915] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[12Jun2025 02:55:29.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[12Jun2025 02:55:46.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD was slain by Zombie Chicken
+[12Jun2025 02:55:47.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:55:47.726] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:55:48.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax was slain by Zombie Dolphin
+[12Jun2025 02:55:52.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Jun2025 02:55:52.277] [Server thread/INFO] [tac/]: PENDING
+[12Jun2025 02:56:05.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebullax lost connection: Disconnected
+[12Jun2025 02:56:05.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax left the game
+[12Jun2025 02:56:05.810] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[12Jun2025 02:56:05.811] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sebullax
+[12Jun2025 02:56:08.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zetinh0 lost connection: Disconnected
+[12Jun2025 02:56:08.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 left the game
+[12Jun2025 02:56:08.463] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5ca21373-221c-34b2-808f-861ecf832fc9
+[12Jun2025 02:56:08.464] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zetinh0
+[12Jun2025 02:56:08.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MUHAMMAD lost connection: Disconnected
+[12Jun2025 02:56:08.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MUHAMMAD left the game
+[12Jun2025 02:56:08.757] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd0073ad-59ec-3829-a3a6-9148416246a8
+[12Jun2025 02:56:08.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MUHAMMAD
+[12Jun2025 02:56:17.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[12Jun2025 02:56:17.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jun2025 02:56:17.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jun2025 02:56:17.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sistinyan lost connection: Server closed
+[12Jun2025 02:56:17.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan left the game
+[12Jun2025 02:56:17.565] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 63364086-8c43-34ec-95a1-fee57aee2c7a
+[12Jun2025 02:56:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jun2025 02:56:18.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jun2025 02:56:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jun2025 02:56:21.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[12Jun2025 02:56:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jun2025 02:56:21.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[12Jun2025 02:56:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jun2025 02:56:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jun2025 02:56:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[12Jun2025 02:56:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jun2025 02:56:21.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[12Jun2025 02:56:21.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Jun2025 02:56:22.016] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[12Jun2025 02:56:22.021] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[12Jun2025 02:56:22.022] [Server thread/INFO] [configured/]: Unloading server configs...
+[12Jun2025 02:56:22.023] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml

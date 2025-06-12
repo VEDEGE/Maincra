@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-12 02:54:53 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-06-12 02:43:38 +0000"
@@ -152,6 +158,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-06-12 02:44:10 +0000",
+      "minecraft:forest": "2025-06-12 02:49:11 +0000",
       "minecraft:desert": "2025-06-12 02:43:38 +0000"
     },
     "done": false
@@ -477,6 +484,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 02:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-12 02:49:36 +0000"
     },
     "done": true
   },

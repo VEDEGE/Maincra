@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-06-12 02:49:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 02:43:41 +0000"

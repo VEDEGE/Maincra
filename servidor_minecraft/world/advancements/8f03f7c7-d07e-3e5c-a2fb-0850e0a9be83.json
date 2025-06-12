@@ -152,7 +152,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-06-12 02:45:14 +0000",
-      "minecraft:desert": "2025-06-12 02:43:54 +0000"
+      "minecraft:desert": "2025-06-12 02:43:54 +0000",
+      "minecraft:plains": "2025-06-12 02:52:53 +0000"
     },
     "done": false
   },
@@ -183,6 +184,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-12 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-12 02:51:48 +0000"
     },
     "done": true
   },
@@ -246,6 +253,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-12 02:53:17 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 02:43:54 +0000"
@@ -269,6 +282,12 @@
       "has_the_recipe": "2025-06-12 02:43:54 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-06-12 02:53:17 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
