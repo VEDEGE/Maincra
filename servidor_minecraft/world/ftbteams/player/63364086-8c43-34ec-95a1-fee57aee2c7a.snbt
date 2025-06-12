@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Sistinyan"
 		"ftbteams:description": ""
-		"ftbteams:color": "#596DFF"
+		"ftbteams:color": "#5988FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
