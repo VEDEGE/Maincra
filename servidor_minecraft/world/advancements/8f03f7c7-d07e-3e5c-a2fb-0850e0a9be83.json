@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-06-13 02:41:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
@@ -557,7 +563,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-06-12 04:34:28 +0000",
-      "minecraft:zombie": "2025-06-12 03:19:46 +0000"
+      "minecraft:zombie": "2025-06-12 03:19:46 +0000",
+      "minecraft:zombie_villager": "2025-06-13 02:40:39 +0000"
     },
     "done": false
   },
