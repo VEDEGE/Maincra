@@ -25,7 +25,9 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "vegetable_soup": "2025-06-13 03:11:33 +0000"
+      "vegetable_soup": "2025-06-13 03:11:33 +0000",
+      "honey_glazed_ham": "2025-06-13 06:03:36 +0000",
+      "fried_rice": "2025-06-13 04:03:56 +0000"
     },
     "done": false
   },
@@ -155,6 +157,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-06-13 04:45:28 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
@@ -173,6 +181,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-06-13 06:18:22 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
@@ -182,6 +196,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-06-12 05:40:43 +0000",
+      "golden_apple": "2025-06-13 04:34:41 +0000",
       "carrot": "2025-06-12 05:40:36 +0000"
     },
     "done": false
@@ -348,6 +363,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-06-13 06:35:02 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/waterskin": {
     "criteria": {
       "has_recipe": "2025-06-12 03:15:23 +0000"
@@ -422,9 +443,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-13 05:21:17 +0000",
       "shrubland": "2025-06-12 03:19:08 +0000",
+      "fungal_jungle": "2025-06-13 05:47:20 +0000",
+      "old_growth_woodland": "2025-06-13 05:46:54 +0000",
+      "mediterranean_forest": "2025-06-13 05:42:11 +0000",
       "redwood_forest": "2025-06-12 03:15:23 +0000",
-      "grassland": "2025-06-13 02:36:29 +0000"
+      "grassland": "2025-06-13 02:36:29 +0000",
+      "rainforest": "2025-06-13 05:46:51 +0000"
     },
     "done": false
   },
@@ -436,7 +462,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-06-12 03:19:01 +0000"
+      "minecraft:river": "2025-06-12 03:19:01 +0000",
+      "minecraft:dripstone_caves": "2025-06-13 05:43:00 +0000",
+      "minecraft:forest": "2025-06-13 05:59:19 +0000",
+      "minecraft:plains": "2025-06-13 05:59:10 +0000"
     },
     "done": false
   },
@@ -464,6 +493,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-06-13 06:18:22 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:extreme_temps": {
     "criteria": {
       "requirement": "2025-06-12 03:15:23 +0000"
@@ -479,6 +514,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-12 03:26:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2025-06-13 05:07:03 +0000"
     },
     "done": true
   },
@@ -598,6 +639,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-06-13 06:03:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-13 03:49:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
@@ -619,6 +672,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-13 06:08:33 +0000"
     },
     "done": true
   },

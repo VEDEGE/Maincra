@@ -162,6 +162,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-06-13 05:37:23 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
@@ -180,6 +186,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-06-13 06:35:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
@@ -191,7 +203,9 @@
       "cooked_mutton": "2025-06-12 04:01:47 +0000",
       "baked_potato": "2025-06-12 04:07:50 +0000",
       "bread": "2025-06-12 03:40:33 +0000",
-      "cooked_chicken": "2025-06-12 03:38:23 +0000"
+      "golden_apple": "2025-06-13 05:30:10 +0000",
+      "cooked_chicken": "2025-06-12 03:38:23 +0000",
+      "carrot": "2025-06-13 03:47:28 +0000"
     },
     "done": false
   },
@@ -309,6 +323,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-06-13 03:27:05 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
@@ -393,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-13 04:16:48 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
@@ -413,7 +439,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-13 05:29:52 +0000",
       "shrubland": "2025-06-12 03:17:22 +0000",
+      "mediterranean_forest": "2025-06-13 05:43:29 +0000",
       "redwood_forest": "2025-06-12 03:14:53 +0000",
       "prairie": "2025-06-12 05:39:52 +0000",
       "grassland": "2025-06-13 02:36:13 +0000"
@@ -428,7 +456,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-06-12 03:17:20 +0000"
+      "minecraft:river": "2025-06-12 03:17:20 +0000",
+      "minecraft:savanna": "2025-06-13 05:43:43 +0000"
     },
     "done": false
   },
@@ -453,6 +482,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-06-13 06:35:39 +0000"
     },
     "done": true
   },
@@ -504,6 +539,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-06-13 07:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-12 03:19:44 +0000"
@@ -525,6 +566,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2025-06-13 06:12:55 +0000"
     },
     "done": true
   },
@@ -623,6 +670,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-13 04:14:15 +0000"
     },
     "done": true
   },

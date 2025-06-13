@@ -162,6 +162,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-06-13 05:07:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -422,6 +428,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-13 04:16:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -442,7 +454,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-13 04:12:47 +0000",
       "shrubland": "2025-06-12 03:17:33 +0000",
+      "mediterranean_forest": "2025-06-13 04:13:17 +0000",
       "redwood_forest": "2025-06-12 03:14:39 +0000",
       "grassland": "2025-06-12 04:44:59 +0000"
     },
@@ -464,7 +478,8 @@
     "criteria": {
       "minecraft:birch_forest": "2025-06-12 05:40:51 +0000",
       "minecraft:river": "2025-06-12 03:17:25 +0000",
-      "minecraft:forest": "2025-06-12 05:32:38 +0000"
+      "minecraft:forest": "2025-06-12 05:32:38 +0000",
+      "minecraft:savanna": "2025-06-13 04:13:27 +0000"
     },
     "done": false
   },
@@ -561,6 +576,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2025-06-13 04:20:35 +0000"
     },
     "done": true
   },
@@ -665,6 +686,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-13 05:59:01 +0000"
     },
     "done": true
   },

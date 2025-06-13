@@ -25,7 +25,13 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "vegetable_soup": "2025-06-13 03:01:46 +0000"
+      "vegetable_soup": "2025-06-13 03:01:46 +0000",
+      "honey_glazed_ham": "2025-06-13 03:34:11 +0000",
+      "fish_stew": "2025-06-13 05:03:49 +0000",
+      "stuffed_pumpkin": "2025-06-13 06:23:17 +0000",
+      "beef_stew": "2025-06-13 06:03:31 +0000",
+      "roast_chicken": "2025-06-13 03:20:17 +0000",
+      "fried_rice": "2025-06-13 03:24:49 +0000"
     },
     "done": false
   },
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-06-13 04:15:28 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
@@ -179,6 +191,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-06-13 06:17:55 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
@@ -187,6 +205,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-13 05:07:24 +0000",
       "bread": "2025-06-13 02:42:32 +0000",
       "golden_apple": "2025-06-13 01:57:07 +0000"
     },
@@ -324,6 +343,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-06-13 04:28:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
@@ -351,6 +376,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-06-13 06:17:52 +0000"
     },
     "done": true
   },
@@ -414,6 +445,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-06-13 03:31:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
@@ -440,9 +477,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-13 05:21:22 +0000",
       "shrubland": "2025-06-12 03:21:28 +0000",
+      "fungal_jungle": "2025-06-13 05:47:22 +0000",
+      "old_growth_woodland": "2025-06-13 05:48:49 +0000",
+      "mediterranean_forest": "2025-06-13 05:42:14 +0000",
       "redwood_forest": "2025-06-12 03:14:38 +0000",
-      "grassland": "2025-06-13 02:36:26 +0000"
+      "grassland": "2025-06-13 02:36:26 +0000",
+      "rainforest": "2025-06-13 05:46:59 +0000"
     },
     "done": false
   },
@@ -460,7 +502,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-06-12 03:17:52 +0000"
+      "minecraft:river": "2025-06-12 03:17:52 +0000",
+      "minecraft:dripstone_caves": "2025-06-13 05:43:01 +0000"
     },
     "done": false
   },
@@ -488,6 +531,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-06-13 06:17:55 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:extreme_temps": {
     "criteria": {
       "requirement": "2025-06-12 03:14:38 +0000"
@@ -503,6 +552,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-12 03:23:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2025-06-13 04:38:44 +0000"
     },
     "done": true
   },
@@ -527,6 +582,12 @@
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2025-06-13 03:31:42 +0000"
     },
     "done": true
   },
@@ -593,7 +654,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-06-12 03:59:22 +0000",
-      "minecraft:zombie": "2025-06-12 03:22:46 +0000"
+      "minecraft:zombie": "2025-06-12 03:22:46 +0000",
+      "minecraft:zombie_villager": "2025-06-13 06:05:20 +0000"
     },
     "done": false
   },
@@ -627,6 +689,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-06-13 03:20:17 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
@@ -648,6 +716,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-13 06:02:00 +0000"
     },
     "done": true
   },
