@@ -1550,3 +1550,31 @@
 [13Jun2025 03:11:55.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax left the game
 [13Jun2025 03:11:55.357] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
 [13Jun2025 03:11:55.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sebullax
+[13Jun2025 03:13:38.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetinh0 was slain by The Moonflower
+[13Jun2025 03:13:42.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[13Jun2025 03:13:42.262] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 03:13:58.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[13Jun2025 03:13:58.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jun2025 03:13:58.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jun2025 03:13:58.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sistinyan lost connection: Server closed
+[13Jun2025 03:13:58.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan left the game
+[13Jun2025 03:13:58.569] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 63364086-8c43-34ec-95a1-fee57aee2c7a
+[13Jun2025 03:13:58.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coisapreciosa lost connection: Server closed
+[13Jun2025 03:13:58.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa left the game
+[13Jun2025 03:13:58.573] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cc496373-ad8f-3174-95a6-55e5a2d99f11
+[13Jun2025 03:13:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jun2025 03:13:59.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jun2025 03:14:01.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[13Jun2025 03:14:01.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jun2025 03:14:01.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[13Jun2025 03:14:01.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jun2025 03:14:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jun2025 03:14:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[13Jun2025 03:14:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jun2025 03:14:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[13Jun2025 03:14:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jun2025 03:14:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jun2025 03:14:01.452] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[13Jun2025 03:14:01.453] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[13Jun2025 03:14:01.455] [Server thread/INFO] [configured/]: Unloading server configs...
+[13Jun2025 03:14:01.456] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
