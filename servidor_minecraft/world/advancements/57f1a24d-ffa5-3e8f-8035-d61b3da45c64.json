@@ -621,6 +621,7 @@
     "criteria": {
       "minecraft:husk": "2025-06-12 03:38:51 +0000",
       "minecraft:zombie": "2025-06-12 03:38:36 +0000",
+      "minecraft:drowned": "2025-06-13 02:49:20 +0000",
       "minecraft:zombie_villager": "2025-06-13 02:44:22 +0000"
     },
     "done": false

@@ -1501,3 +1501,47 @@
 [13Jun2025 02:46:00.973] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@55ad6fee
 [13Jun2025 02:46:00.974] [Server thread/INFO] [hordes/]: Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@79abd3b6
 [13Jun2025 02:51:52.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has completed the challenge [I'm not sugar coating it]
+[13Jun2025 02:54:46.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebullax lost connection: Timed out
+[13Jun2025 02:54:46.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax left the game
+[13Jun2025 02:54:46.553] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[13Jun2025 02:54:46.554] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sebullax
+[13Jun2025 02:55:00.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealmHeart21 lost connection: Disconnected
+[13Jun2025 02:55:00.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 left the game
+[13Jun2025 02:55:00.208] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ef097a65-5269-3c22-867f-595c2a44f7a7
+[13Jun2025 02:55:00.208] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RealmHeart21
+[13Jun2025 02:55:14.007] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d27510a[id=<null>,name=Sebullax,properties={},legacy=false] (/127.254.15.59:58955) lost connection: Disconnected
+[13Jun2025 02:55:43.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coisapreciosa lost connection: Disconnected
+[13Jun2025 02:55:43.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa left the game
+[13Jun2025 02:55:43.852] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cc496373-ad8f-3174-95a6-55e5a2d99f11
+[13Jun2025 02:55:43.853] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coisapreciosa
+[13Jun2025 02:55:50.157] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2936e37c
+[13Jun2025 02:55:50.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RealmHeart21[/127.226.25.164:36107] logged in with entity id 455280 at (15.699999988079071, 67.0, -520.3000000119209)
+[13Jun2025 02:55:50.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 joined the game
+[13Jun2025 02:55:50.173] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 02:55:50.213] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ef097a65-5269-3c22-867f-595c2a44f7a7
+[13Jun2025 02:55:50.557] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RealmHeart21 (17)
+[13Jun2025 02:55:50.557] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RealmHeart21
+[13Jun2025 02:56:14.951] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a66484a[id=<null>,name=Sebullax,properties={},legacy=false] (/127.254.15.59:47559) lost connection: Disconnected
+[13Jun2025 02:56:25.600] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13d70267
+[13Jun2025 02:56:25.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coisapreciosa[/127.159.215.67:49069] logged in with entity id 458577 at (7.035990961680914, 63.5625, -530.4950629272885)
+[13Jun2025 02:56:25.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa joined the game
+[13Jun2025 02:56:25.616] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 02:56:25.679] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cc496373-ad8f-3174-95a6-55e5a2d99f11
+[13Jun2025 02:56:26.062] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coisapreciosa (17)
+[13Jun2025 02:56:26.062] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coisapreciosa
+[13Jun2025 02:57:02.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=63, z=-517} BlockPos{x=35, y=61, z=-516}
+[13Jun2025 02:57:02.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=63, z=-517} BlockPos{x=35, y=61, z=-516}
+[13Jun2025 02:57:50.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RealmHeart21 lost connection: Timed out
+[13Jun2025 02:57:50.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 left the game
+[13Jun2025 02:57:50.256] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ef097a65-5269-3c22-867f-595c2a44f7a7
+[13Jun2025 02:57:50.257] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RealmHeart21
+[13Jun2025 02:58:55.106] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f2efb51
+[13Jun2025 02:58:55.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebullax[/127.254.15.59:40759] logged in with entity id 473870 at (2.8782095641515606, 63.0, -530.8670510292169)
+[13Jun2025 02:58:55.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax joined the game
+[13Jun2025 02:58:55.120] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 02:58:55.160] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[13Jun2025 02:58:56.127] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sebullax (17)
+[13Jun2025 02:58:56.127] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sebullax
+[13Jun2025 03:00:54.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Liluch07> Liluch07
+[13Jun2025 03:00:59.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Coisapreciosa> YOLI
+[13Jun2025 03:01:07.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Coisapreciosa> peudes dormir0
