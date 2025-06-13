@@ -1118,3 +1118,73 @@
 [13Jun2025 01:51:03.440] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
 [13Jun2025 01:51:03.911] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Liluch07 (17)
 [13Jun2025 01:51:03.912] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Liluch07
+[13Jun2025 01:51:55.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Disconnected
+[13Jun2025 01:51:55.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[13Jun2025 01:51:55.900] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:51:55.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[13Jun2025 01:52:29.500] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c88b8b8
+[13Jun2025 01:52:29.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liluch07[/127.128.150.180:40729] logged in with entity id 57822 at (-224.5, 76.0, -113.5)
+[13Jun2025 01:52:29.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 joined the game
+[13Jun2025 01:52:29.520] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 01:52:29.584] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:52:29.746] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Liluch07 (17)
+[13Jun2025 01:52:29.746] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Liluch07
+[13Jun2025 01:54:17.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Disconnected
+[13Jun2025 01:54:17.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[13Jun2025 01:54:17.396] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:54:17.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[13Jun2025 01:54:41.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40f6e6c
+[13Jun2025 01:54:41.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liluch07[/127.128.150.180:52347] logged in with entity id 70516 at (-224.5, 76.0, -113.5)
+[13Jun2025 01:54:41.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 joined the game
+[13Jun2025 01:54:41.266] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 01:54:41.326] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:54:41.682] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Liluch07 (17)
+[13Jun2025 01:54:41.683] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Liluch07
+[13Jun2025 01:54:57.750] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[13Jun2025 01:54:58.296] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[13Jun2025 01:55:37.204] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40f29cc6
+[13Jun2025 01:55:37.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sistinyan[/127.138.217.206:40607] logged in with entity id 76274 at (-224.76528073164147, 76.5625, -112.11262091008868)
+[13Jun2025 01:55:37.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sistinyan joined the game
+[13Jun2025 01:55:37.221] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 01:55:37.284] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 63364086-8c43-34ec-95a1-fee57aee2c7a
+[13Jun2025 01:55:38.378] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sistinyan (17)
+[13Jun2025 01:55:38.379] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sistinyan
+[13Jun2025 01:56:41.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Timed out
+[13Jun2025 01:56:41.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[13Jun2025 01:56:41.345] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:56:41.346] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[13Jun2025 01:57:11.498] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@282e8015
+[13Jun2025 01:57:11.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liluch07[/127.128.150.180:53749] logged in with entity id 85606 at (-224.5, 76.0, -113.5)
+[13Jun2025 01:57:11.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 joined the game
+[13Jun2025 01:57:11.515] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 01:57:11.573] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:57:11.731] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Liluch07 (17)
+[13Jun2025 01:57:11.732] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Liluch07
+[13Jun2025 01:57:52.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RealmHeart21 has made the advancement [Stone Age]
+[13Jun2025 01:58:46.846] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[13Jun2025 01:58:56.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Liluch07> AYUDA
+[13Jun2025 01:59:24.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Disconnected
+[13Jun2025 01:59:24.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[13Jun2025 01:59:24.954] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:59:24.954] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[13Jun2025 01:59:42.647] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37bb2d16
+[13Jun2025 01:59:42.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liluch07[/127.128.150.180:40043] logged in with entity id 100031 at (-224.71752400776796, 76.0, -113.55994370340002)
+[13Jun2025 01:59:42.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 joined the game
+[13Jun2025 01:59:42.666] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 01:59:42.717] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 01:59:43.054] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Liluch07 (17)
+[13Jun2025 01:59:43.055] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Liluch07
+[13Jun2025 01:59:52.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Coisapreciosa has made the advancement [Penteconter]
+[13Jun2025 02:00:20.247] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[13Jun2025 02:00:55.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liluch07 lost connection: Disconnected
+[13Jun2025 02:00:55.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 left the game
+[13Jun2025 02:00:55.251] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 02:00:55.252] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liluch07
+[13Jun2025 02:01:14.652] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72c892c6
+[13Jun2025 02:01:14.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liluch07[/127.128.150.180:59655] logged in with entity id 109933 at (-224.71752400776796, 76.0, -113.55994370340002)
+[13Jun2025 02:01:14.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 joined the game
+[13Jun2025 02:01:14.668] [Server thread/INFO] [tac/]: PENDING
+[13Jun2025 02:01:14.728] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 8f03f7c7-d07e-3e5c-a2fb-0850e0a9be83
+[13Jun2025 02:01:14.899] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Liluch07 (17)
+[13Jun2025 02:01:14.900] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Liluch07
+[13Jun2025 02:01:57.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liluch07 was slain by Crawler
