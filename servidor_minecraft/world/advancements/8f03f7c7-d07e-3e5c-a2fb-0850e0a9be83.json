@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_soup": "2025-06-13 03:11:33 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
@@ -661,6 +667,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:15:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-13 03:11:33 +0000"
     },
     "done": true
   },

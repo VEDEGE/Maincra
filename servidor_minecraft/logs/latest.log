@@ -1545,3 +1545,8 @@
 [13Jun2025 03:00:54.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Liluch07> Liluch07
 [13Jun2025 03:00:59.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Coisapreciosa> YOLI
 [13Jun2025 03:01:07.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Coisapreciosa> peudes dormir0
+[13Jun2025 03:04:44.300] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[13Jun2025 03:11:55.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebullax lost connection: Timed out
+[13Jun2025 03:11:55.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sebullax left the game
+[13Jun2025 03:11:55.357] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f1a24d-ffa5-3e8f-8035-d61b3da45c64
+[13Jun2025 03:11:55.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sebullax
