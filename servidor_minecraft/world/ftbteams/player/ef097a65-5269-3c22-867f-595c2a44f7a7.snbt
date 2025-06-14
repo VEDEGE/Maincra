@@ -2,9 +2,7 @@
 	id: "ef097a65-5269-3c22-867f-595c2a44f7a7"
 	type: "player"
 	player_name: "RealmHeart21"
-	ranks: {
-		ef097a65-5269-3c22-867f-595c2a44f7a7: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "RealmHeart21"
 		"ftbteams:description": ""

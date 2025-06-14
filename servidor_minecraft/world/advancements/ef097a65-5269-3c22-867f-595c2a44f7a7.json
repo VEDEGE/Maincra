@@ -186,6 +186,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2025-06-14 05:35:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -196,6 +202,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-13 02:34:10 +0000",
       "bread": "2025-06-12 04:28:02 +0000",
+      "golden_apple": "2025-06-14 05:21:28 +0000",
       "carrot": "2025-06-13 02:05:50 +0000"
     },
     "done": false
@@ -326,6 +333,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-06-14 06:20:44 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
@@ -353,6 +366,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-06-14 07:51:50 +0000"
     },
     "done": true
   },
@@ -456,8 +475,10 @@
     "criteria": {
       "woodland": "2025-06-13 04:12:47 +0000",
       "shrubland": "2025-06-12 03:17:33 +0000",
+      "old_growth_woodland": "2025-06-14 06:35:22 +0000",
       "mediterranean_forest": "2025-06-13 04:13:17 +0000",
       "redwood_forest": "2025-06-12 03:14:39 +0000",
+      "rocky_rainforest": "2025-06-14 07:25:49 +0000",
       "grassland": "2025-06-12 04:44:59 +0000"
     },
     "done": false
@@ -477,7 +498,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-06-12 05:40:51 +0000",
+      "minecraft:savanna_plateau": "2025-06-14 06:34:43 +0000",
       "minecraft:river": "2025-06-12 03:17:25 +0000",
+      "minecraft:dripstone_caves": "2025-06-14 06:34:47 +0000",
       "minecraft:forest": "2025-06-12 05:32:38 +0000",
       "minecraft:savanna": "2025-06-13 04:13:27 +0000"
     },
@@ -504,6 +527,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-12 03:14:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2025-06-14 05:35:10 +0000"
     },
     "done": true
   },

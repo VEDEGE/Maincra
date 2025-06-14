@@ -2,13 +2,11 @@
 	id: "57f1a24d-ffa5-3e8f-8035-d61b3da45c64"
 	type: "player"
 	player_name: "Sebullax"
-	ranks: {
-		57f1a24d-ffa5-3e8f-8035-d61b3da45c64: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Sebullax"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FFF359"
+		"ftbteams:color": "#79FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

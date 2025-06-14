@@ -2,9 +2,7 @@
 	id: "5ca21373-221c-34b2-808f-861ecf832fc9"
 	type: "player"
 	player_name: "zetinh0"
-	ranks: {
-		5ca21373-221c-34b2-808f-861ecf832fc9: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "zetinh0"
 		"ftbteams:description": ""

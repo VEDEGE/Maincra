@@ -1,0 +1,32 @@
+{
+	id: "d65f2487-99b0-4fef-a0a5-7173d7dddbd2"
+	type: "party"
+	owner: "ef097a65-5269-3c22-867f-595c2a44f7a7"
+	ranks: {
+		5ca21373-221c-34b2-808f-861ecf832fc9: "member"
+		ef097a65-5269-3c22-867f-595c2a44f7a7: "owner"
+		57f1a24d-ffa5-3e8f-8035-d61b3da45c64: "member"
+		63364086-8c43-34ec-95a1-fee57aee2c7a: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "VDG"
+		"ftbteams:description": "Hijos del pico"
+		"ftbteams:color": "#59DBFF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1749889199232L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"RealmHeart21\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "ef097a65-5269-3c22-867f-595c2a44f7a7", date: 1749889199241L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sistinyan\"}]}" }
+		{ from: "ef097a65-5269-3c22-867f-595c2a44f7a7", date: 1749889199241L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"zetinh0\"}]}" }
+		{ from: "ef097a65-5269-3c22-867f-595c2a44f7a7", date: 1749889199241L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sebullax\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1749889203491L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Sistinyan\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1749889207188L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Sebullax\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1749889396429L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"zetinh0\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "57f1a24d-ffa5-3e8f-8035-d61b3da45c64", date: 1749889458280L, text: "{\"text\":\"hola\"}" }
+		{ from: "57f1a24d-ffa5-3e8f-8035-d61b3da45c64", date: 1749889463092L, text: "{\"text\":\"\"}" }
+		{ from: "ef097a65-5269-3c22-867f-595c2a44f7a7", date: 1749889473273L, text: "{\"text\":\"invite Coisapreciosa\"}" }
+		{ from: "ef097a65-5269-3c22-867f-595c2a44f7a7", date: 1749889621097L, text: "{\"text\":\"/invite Coisapreciosa\"}" }
+	]
+	extra: { }
+}
